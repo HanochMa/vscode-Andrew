@@ -1,0 +1,15 @@
+{
+    "welcome": "An extension that allows you to Andrew some frequently opened files to here. \n Right click your files, and go for \"🏠Andrew\"! \n [Learn More](https://github.com/HanochMa/vscode-Andrew)",
+    "pinned-files": "🏠Pinned Files",
+
+    "pin-up": "🏠Andrew",
+    "pin-up-current": "🏠Andrew Current File",
+    "pin-up-outside": "🏠Andrew Outside Files & Folders",
+    "set-alias": "Set Alias",
+    "remove-pin": "Remove Pin",
+    "remove-all": "Remove All",
+
+    "fs-create-file": "New File",
+    "fs-create-folder": "New Folder",
+    "fs-delete": "Delete to Trash"
+}
