@@ -2,7 +2,7 @@
     "publisher": "maheng",
     "icon": "resources/logo.png",
     "name": "Andrew",
-    "displayName": "🏠Andrew",
+    "displayName": "tuhu-Andrew",
     "description": "把常用文件添加到固定区域，方便开发时寻找，希望能帮到你～",
     "version": "1.0.0",
     "engines": {
@@ -98,29 +98,34 @@
         ],
         "snippets": [
             {
-              "language": "javascript",
-              "path": "./snippets/snippets.json"
-            }, {
-              "language": "typescript",
-              "path": "./snippets/snippets.json"
-            }, {
-              "language": "javascriptreact",
-              "path": "./snippets/snippets.json"
-            }, {
-              "language": "typescriptreact",
-              "path": "./snippets/snippets.json"
-            }, {
-              "language": "html",
-              "path": "./snippets/snippets.json"
-            }, {
-              "language": "vue",
-              "path": "./snippets/snippets.json"
-                  },
-                  {
-              "language": "vue-html",
-              "path": "./snippets/snippets.json"
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/snippets.json"
             }
-          ],
+        ],
         "viewsContainers": {
             "activitybar": [
                 {
