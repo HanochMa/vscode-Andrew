@@ -45,7 +45,7 @@
             {
                 "command": "pin-up.add-pin",
                 "category": "pin-up",
-                "title": "%pin-up%"
+                "title": "🏠固定"
             },
             {
                 "command": "pin-up.add-pin-current",
@@ -151,7 +151,7 @@
             "explorer": [
                 {
                     "id": "view-explorer",
-                    "name": "%pinned-files%",
+                    "name": "%🏠固定",
                     "when": "pin-up.have-pinned-files"
                 }
             ]
