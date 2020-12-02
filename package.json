@@ -130,7 +130,7 @@
             "activitybar": [
                 {
                     "id": "view-activitybar",
-                    "title": "%pinned-files%",
+                    "title": "🏠固定",
                     "icon": "resources/main-icon.svg"
                 }
             ]
@@ -138,14 +138,14 @@
         "viewsWelcome": [
             {
                 "view": "view-activitybar",
-                "contents": "%welcome%"
+                "contents": "你可以将一些经常打开的文件固定到此处。\n 右键单击文件然后选择 \"🏠固定\"!"
             }
         ],
         "views": {
             "view-activitybar": [
                 {
                     "id": "view-activitybar",
-                    "name": "%pinned-files%"
+                    "name": "🏠固定"
                 }
             ],
             "explorer": [
