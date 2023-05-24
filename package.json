@@ -1,10 +1,10 @@
 {
-    "publisher": "maheng",
+    "publisher": "hanochMa",
     "icon": "resources/logo.png",
     "name": "Andrew",
-    "displayName": "tuhu-Andrew",
+    "displayName": "Andrew",
     "description": "把常用文件添加到固定区域，方便开发时寻找，希望能帮到你～",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.44.0"
     },
